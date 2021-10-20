@@ -1,0 +1,28 @@
+{
+"name": "slope_multiplayer",
+"short_name": "slope_multiplayer",
+"start_url": "index.html",
+"display": "fullscreen",
+"orientation": "landscape",
+"icons": [{
+"src": "https://c1.cgmconstrutora.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?https://storage.y8.com/y8-studio/html5/akeemywka/slope_multiplayer_v6/icon-16.png",
+"sizes": "16x16",
+"type": "image/png"
+}, {
+"src": "https://c1.cgmconstrutora.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?https://storage.y8.com/y8-studio/html5/akeemywka/slope_multiplayer_v6/icon-32.png",
+"sizes": "32x32",
+"type": "image/png"
+}, {
+"src": "https://c1.cgmconstrutora.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?https://storage.y8.com/y8-studio/html5/akeemywka/slope_multiplayer_v6/icon-128.png",
+"sizes": "128x128",
+"type": "image/png"
+}, {
+"src": "https://c1.cgmconstrutora.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?https://storage.y8.com/y8-studio/html5/akeemywka/slope_multiplayer_v6/icon-256.png",
+"sizes": "144x144",
+"type": "image/png"
+}, {
+"src": "https://c1.cgmconstrutora.com/wp-content/plugins/super-links/application/helpers/super-links-proxy.php?https://storage.y8.com/y8-studio/html5/akeemywka/slope_multiplayer_v6/icon-256.png",
+"sizes": "256x256",
+"type": "image/png"
+}]
+}
